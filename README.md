@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bramby6
+- 👀 I’m interested in Java (Spring MVC, Springboot), javascript (vanilla.js and React.js)
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me brahmadewasakti@gmail.com
