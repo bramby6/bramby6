@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bramby6
 - 👀 I’m interested in Java (Spring MVC, Springboot), JavaScript (VanillaJS and ReactJS)
 - 📫 How to reach me brahmadewasakti@gmail.com
-- 🌱 I’m currently learning **NoSql, DB Clustering**
   
 | Programming | Front End | DevOps | Database | Others |
 | --- | --- | --- | --- | --- |
